@@ -118,7 +118,7 @@
 
 - (void)setValue:(CGFloat)value
 {
-    _value = value;
+    _value = value / 65.0;
 }
 
 - (void)setColor:(UIColor *)color
