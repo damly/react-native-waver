@@ -1,0 +1,14 @@
+{
+  "name": "react-native-waver",
+  "version": "1.0.0",
+  "description": "waver like siri",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "damly<8051263@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  }
+}
